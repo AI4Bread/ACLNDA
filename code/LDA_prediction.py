@@ -166,11 +166,10 @@ def read_lncRNA_file(file_path):
     return lncRNA_names
 
 def generate_case_id():
-    # 第一列是0-230
+
     first_column = np.arange(240)
-    # 第二列是全部为5的元素
+
     second_column = np.full(240, 62)
-    # 合并两列以形成最终的数组
     case_id = np.column_stack((first_column, second_column))
     return case_id
 
