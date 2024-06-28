@@ -123,11 +123,8 @@ def read_lncRNA_file(file_path):
     return lncRNA_names
 
 def generate_case_id():
-    # 第一列是0-230
     first_column = np.arange(495)
-    # 第二列是全部为5的元素
     second_column = np.full(495, 140)
-    # 合并两列以形成最终的数组
     case_id = np.column_stack((first_column, second_column))
     return case_id
 
@@ -263,7 +260,7 @@ if flag:
     train_output = torch.tensor(train_output, dtype=torch.long)
     test_input = torch.tensor(test_input, dtype=torch.float32)
 
-    # 创建MLPClassifier模型
+
     input_size = train_input.shape[1]
     hidden_sizes = [512, 2]
     num_classes = 2
@@ -289,7 +286,7 @@ if flag:
         loss.backward()
         optimizer.step()
 
-    # 在测试集上进行预测
+
     with torch.no_grad():
         mlp.eval()
         y_pred = mlp(test_input)
