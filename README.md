@@ -17,7 +17,7 @@ Asymmetric Graph Contrastive Learning Framework for Predicting Non-Coding RNA-Di
 1. Data Processing:
 - Run the data processing script to preprocess the input data:
   ```
-  python run_process.py
+  python code/process.py
   ```
 
 2. Node Embedding:
