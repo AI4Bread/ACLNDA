@@ -214,7 +214,6 @@ if flag:
     train_output = torch.tensor(train_output, dtype=torch.long)
     test_input = torch.tensor(test_input, dtype=torch.float32)
 
-    # 创建MLPClassifier模型
     input_size = train_input.shape[1]
     hidden_sizes = [512, 2]
     num_classes = 2
@@ -240,7 +239,6 @@ if flag:
         loss.backward()
         optimizer.step()
 
-    # 在测试集上进行预测
     with torch.no_grad():
         mlp.eval()
         y_pred = mlp(test_input)
