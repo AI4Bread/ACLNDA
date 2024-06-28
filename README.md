@@ -1,5 +1,18 @@
 # ACLNDA
 Asymmetric Graph Contrastive Learning Framework for Predicting Non-Coding RNA-Disease Associations in Heterogeneous Graphs
+# Requirements
+
+- dgl
+- matplotlib
+- networkx
+- numpy
+- seaborn
+- torch
+- torch_geometric
+- tqdm
+- pandas
+- sklearn
+  
 1. Data Processing:
 - Run the data processing script to preprocess the input data:
   ```
