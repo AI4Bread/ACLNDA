@@ -1,0 +1,405 @@
+0	DOID:0014667	disease of metabolism
+1	DOID:0050013	carbohydrate metabolism disease
+2	DOID:0050117	disease by infectious agent
+3	DOID:0050155	sensory system disease
+4	DOID:0050177	monogenic disease
+5	DOID:0050338	primary bacterial infectious disease
+6	DOID:0050567	orofacial cleft
+7	DOID:0050615	respiratory system cancer
+8	DOID:0050639	primary cutaneous amyloidosis
+9	DOID:0050686	organ system cancer
+10	DOID:0050687	cell type cancer
+11	DOID:0050736	autosomal dominant disease
+12	DOID:0050739	autosomal genetic disease
+13	DOID:0050745	diffuse large B-cell lymphoma
+14	DOID:0050771	phaeochromocytoma
+15	DOID:0050815	eye adnexa disease
+16	DOID:0050828	artery disease
+17	DOID:0050829	pericardium disease
+18	DOID:0050830	peripheral artery disease
+19	DOID:0050865	tongue squamous cell carcinoma
+20	DOID:0050866	oral squamous cell carcinoma
+21	DOID:0050885	IMAGe syndrome
+22	DOID:0050890	synucleinopathy
+23	DOID:0050902	medulloblastoma
+24	DOID:0050908	myelodysplastic syndrome
+25	DOID:0050951	hereditary ataxia
+26	DOID:0050959	spinocerebellar ataxia type 8
+27	DOID:0060037	developmental disorder of mental health
+28	DOID:0060038	specific developmental disorder
+29	DOID:0060040	pervasive developmental disorder
+30	DOID:0060041	autism spectrum disorder
+31	DOID:0060056	hypersensitivity reaction disease
+32	DOID:0060058	lymphoma
+33	DOID:0060060	non-Hodgkin lymphoma
+34	DOID:0060072	benign neoplasm
+35	DOID:0060083	immune system cancer
+36	DOID:0060084	cell type benign neoplasm
+37	DOID:0060085	organ system benign neoplasm
+38	DOID:0060089	endocrine organ benign neoplasm
+39	DOID:0060100	musculoskeletal system cancer
+40	DOID:0060116	sensory system cancer
+41	DOID:0060119	pharynx cancer
+42	DOID:0060122	integumentary system cancer
+43	DOID:0060131	alexithymia
+44	DOID:0060158	acquired metabolic disease
+45	DOID:0060167	seasonal affective disorder
+46	DOID:0060260	ptosis
+47	DOID:0060289	Ohdo syndrome
+48	DOID:0060318	acute promyelocytic leukemia
+49	DOID:0060334	transient neonatal diabetes mellitus
+50	DOID:0060464	Feingold syndrome
+51	DOID:0060469	Miller-Dieker lissencephaly syndrome
+52	DOID:0070004	myeloma
+53	DOID:0080000	muscular disease
+54	DOID:0080001	bone disease
+55	DOID:0080005	bone remodeling disease
+56	DOID:0080011	bone resorption disease
+57	DOID:0080014	chromosomal disease
+58	DOID:0080015	physical disorder
+59	DOID:0080053	Albright's hereditary osteodystrophy
+60	DOID:0080074	neural tube defect
+61	DOID:10155	intestinal cancer
+62	DOID:10283	prostate cancer
+63	DOID:10286	prostate carcinoma
+64	DOID:10348	blepharophimosis
+65	DOID:1036	chronic leukemia
+66	DOID:1037	lymphoblastic leukemia
+67	DOID:104	bacterial infectious disease
+68	DOID:1040	chronic lymphocytic leukemia
+69	DOID:10534	stomach cancer
+70	DOID:10584	retinitis pigmentosa
+71	DOID:1059	intellectual disability
+72	DOID:10591	pre-eclampsia
+73	DOID:10652	Alzheimer's disease
+74	DOID:1067	open-angle glaucoma
+75	DOID:1070	primary open angle glaucoma
+76	DOID:1074	kidney failure
+77	DOID:10763	hypertension
+78	DOID:1091	tooth disease
+79	DOID:10941	intracranial aneurysm
+80	DOID:10952	nephritis
+81	DOID:10976	membranous glomerulonephritis
+82	DOID:1100	ovarian disease
+83	DOID:11054	urinary bladder cancer
+84	DOID:1107	esophageal carcinoma
+85	DOID:1115	sarcoma
+86	DOID:114	heart disease
+87	DOID:11432	endometriosis of ovary
+88	DOID:11476	osteoporosis
+89	DOID:11612	polycystic ovary syndrome
+90	DOID:117	heart cancer
+91	DOID:11717	neonatal diabetes mellitus
+92	DOID:11723	Duchenne muscular dystrophy
+93	DOID:11830	myopia
+94	DOID:1192	peripheral nervous system neoplasm
+95	DOID:11934	head and neck cancer
+96	DOID:11983	Prader-Willi syndrome
+97	DOID:120	female reproductive organ cancer
+98	DOID:1205	allergic hypersensitivity disease
+99	DOID:1227	neutropenia
+100	DOID:1229	paranoid schizophrenia
+101	DOID:12294	atypical depressive disorder
+102	DOID:12336	male infertility
+103	DOID:12365	malaria
+104	DOID:1240	leukemia
+105	DOID:12603	acute leukemia
+106	DOID:12858	Huntington's disease
+107	DOID:1287	cardiovascular system disease
+108	DOID:1289	neurodegenerative disease
+109	DOID:12987	agranulocytosis
+110	DOID:1307	dementia
+111	DOID:13089	intracranial arterial disease
+112	DOID:1319	brain cancer
+113	DOID:1324	lung cancer
+114	DOID:13241	Behcet's disease
+115	DOID:13317	hyperinsulinemic hypoglycemia
+116	DOID:13378	Kawasaki disease
+117	DOID:1380	endometrial cancer
+118	DOID:1398	parasitic infectious disease
+119	DOID:14067	Plasmodium falciparum malaria
+120	DOID:14250	Down syndrome
+121	DOID:1428	endocrine pancreas disease
+122	DOID:1432	blindness
+123	DOID:14330	Parkinson's disease
+124	DOID:1440	Machado-Joseph disease
+125	DOID:1441	autosomal dominant cerebellar ataxia
+126	DOID:14566	disease of cellular proliferation
+127	DOID:14654	prostatitis
+128	DOID:14681	Silver-Russell syndrome
+129	DOID:1470	major depressive disorder
+130	DOID:1492	eye and adnexa disease
+131	DOID:15	reproductive system disease
+132	DOID:150	disease of mental health
+133	DOID:154	mixed cell type cancer
+134	DOID:1542	head and neck carcinoma
+135	DOID:1555	urticaria
+136	DOID:1561	cognitive disorder
+137	DOID:1596	mental depression
+138	DOID:16	integumentary system disease
+139	DOID:1602	lymphadenitis
+140	DOID:1612	breast cancer
+141	DOID:162	cancer
+142	DOID:1686	glaucoma
+143	DOID:17	musculoskeletal system disease
+144	DOID:170	endocrine gland cancer
+145	DOID:1749	squamous cell carcinoma
+146	DOID:176	cardiovascular cancer
+147	DOID:178	vascular disease
+148	DOID:1781	thyroid cancer
+149	DOID:1787	pericarditis
+150	DOID:1793	pancreatic cancer
+151	DOID:18	urinary system disease
+152	DOID:184	bone cancer
+153	DOID:1883	hepatitis C
+154	DOID:1909	melanoma
+155	DOID:1921	Klinefelter's syndrome
+156	DOID:193	reproductive organ cancer
+157	DOID:1936	atherosclerosis
+158	DOID:1967	leiomyosarcoma
+159	DOID:201	connective tissue cancer
+160	DOID:2018	hyperinsulinism
+161	DOID:2021	placenta cancer
+162	DOID:2025	gestational choriocarcinoma
+163	DOID:2030	anxiety disorder
+164	DOID:2033	communication disorder
+165	DOID:2043	hepatitis B
+166	DOID:2127	brain germinoma
+167	DOID:2151	malignant ovarian surface epithelial-stromal neoplasm
+168	DOID:2152	ovary epithelial cancer
+169	DOID:2154	nephroblastoma
+170	DOID:2174	ocular cancer
+171	DOID:219	colon cancer
+172	DOID:2237	hepatitis
+173	DOID:225	syndrome
+174	DOID:229	female reproductive system disease
+175	DOID:2348	arteriosclerotic cardiovascular disease
+176	DOID:2349	arteriosclerosis
+177	DOID:2377	multiple sclerosis
+178	DOID:2394	ovarian cancer
+179	DOID:2468	psychotic disorder
+180	DOID:2513	basal cell carcinoma
+181	DOID:2531	hematologic cancer
+182	DOID:2559	opiate dependence
+183	DOID:2596	larynx cancer
+184	DOID:26	pancreas disease
+185	DOID:2600	laryngeal carcinoma
+186	DOID:2621	autonomic nervous system neoplasm
+187	DOID:263	kidney cancer
+188	DOID:2671	transitional cell carcinoma
+189	DOID:2678	adult mesoblastic nephroma
+190	DOID:2789	parasitic protozoa infectious disease
+191	DOID:28	endocrine system disease
+192	DOID:2871	endometrial carcinoma
+193	DOID:2876	laryngeal squamous cell carcinoma
+194	DOID:289	endometriosis
+195	DOID:2914	immune system disease
+196	DOID:2921	glomerulonephritis
+197	DOID:2978	carbohydrate metabolic disorder
+198	DOID:299	adenocarcinoma
+199	DOID:2994	germ cell cancer
+200	DOID:2998	testicular cancer
+201	DOID:3007	breast ductal carcinoma
+202	DOID:3008	invasive ductal carcinoma
+203	DOID:303	substance-related disorder
+204	DOID:305	carcinoma
+205	DOID:3068	glioblastoma multiforme
+206	DOID:3069	astrocytoma
+207	DOID:3070	malignant glioma
+208	DOID:3093	nervous system cancer
+209	DOID:3095	germ cell and embryonal cancer
+210	DOID:3118	hepatobiliary disease
+211	DOID:3119	gastrointestinal system cancer
+212	DOID:3121	gallbladder cancer
+213	DOID:3193	peripheral nerve sheath neoplasm
+214	DOID:3213	demyelinating disease
+215	DOID:3247	rhabdomyosarcoma
+216	DOID:3304	germinoma
+217	DOID:3307	teratoma
+218	DOID:3308	embryonal carcinoma
+219	DOID:331	central nervous system disease
+220	DOID:3312	bipolar disorder
+221	DOID:3324	mood disorder
+222	DOID:3342	bone inflammation disease
+223	DOID:3347	osteosarcoma
+224	DOID:3355	fibrosarcoma
+225	DOID:3369	Ewing sarcoma
+226	DOID:3388	periodontal disease
+227	DOID:3393	coronary artery disease
+228	DOID:3451	skin carcinoma
+229	DOID:3459	breast carcinoma
+230	DOID:3498	pancreatic ductal adenocarcinoma
+231	DOID:3527	cerebral arterial disease
+232	DOID:3565	meningioma
+233	DOID:3571	liver cancer
+234	DOID:3590	gestational trophoblastic neoplasm
+235	DOID:3594	choriocarcinoma
+236	DOID:3620	central nervous system cancer
+237	DOID:3627	aortic aneurysm
+238	DOID:363	uterine cancer
+239	DOID:37	skin disease
+240	DOID:3717	gastric adenocarcinoma
+241	DOID:374	nutrition disease
+242	DOID:3748	esophagus squamous cell carcinoma
+243	DOID:3829	pituitary adenoma
+244	DOID:3856	male reproductive organ cancer
+245	DOID:3892	insulinoma
+246	DOID:3905	lung carcinoma
+247	DOID:3907	lung squamous cell carcinoma
+248	DOID:3908	non-small cell lung carcinoma
+249	DOID:3910	lung adenocarcinoma
+250	DOID:3948	adrenocortical carcinoma
+251	DOID:3953	adrenal gland cancer
+252	DOID:3963	thyroid carcinoma
+253	DOID:3969	papillary thyroid carcinoma
+254	DOID:399	tuberculosis
+255	DOID:3996	urinary system cancer
+256	DOID:4	disease
+257	DOID:4001	ovarian carcinoma
+258	DOID:4006	urinary bladder urothelial carcinoma
+259	DOID:4007	bladder carcinoma
+260	DOID:403	mouth disease
+261	DOID:4043	skeletal muscle cancer
+262	DOID:4045	muscle cancer
+263	DOID:4074	pancreas adenocarcinoma
+264	DOID:4085	trophoblastic neoplasm
+265	DOID:409	liver disease
+266	DOID:4090	agnosia
+267	DOID:4159	skin cancer
+268	DOID:417	hypersensitivity reaction type II disease
+269	DOID:4184	pseudohypoparathyroidism
+270	DOID:4194	glucose metabolism disease
+271	DOID:4195	hyperglycemia
+272	DOID:421	hair disease
+273	DOID:4226	endometrial stromal sarcoma
+274	DOID:423	myopathy
+275	DOID:4230	smooth muscle cancer
+276	DOID:4362	cervical cancer
+277	DOID:4440	seminoma
+278	DOID:4450	renal cell carcinoma
+279	DOID:4451	renal carcinoma
+280	DOID:4467	renal clear cell carcinoma
+281	DOID:4535	hypotrichosis
+282	DOID:4607	biliary tract cancer
+283	DOID:4645	retinal cancer
+284	DOID:4676	uremia
+285	DOID:47	prostate disease
+286	DOID:4706	infratentorial cancer
+287	DOID:4752	multiple system atrophy
+288	DOID:48	male reproductive system disease
+289	DOID:4845	pilomyxoid astrocytoma
+290	DOID:4851	pilocytic astrocytoma
+291	DOID:4905	pancreatic carcinoma
+292	DOID:4914	esophagus adenocarcinoma
+293	DOID:4960	bone marrow cancer
+294	DOID:4961	bone marrow disease
+295	DOID:4971	myelofibrosis
+296	DOID:5041	esophageal cancer
+297	DOID:5093	thoracic cancer
+298	DOID:5151	plexiform neurofibroma
+299	DOID:5158	pleural cancer
+300	DOID:5166	endometrial stromal tumor
+301	DOID:5183	hereditary Wilms' tumor
+302	DOID:520	aortic disease
+303	DOID:5223	infertility
+304	DOID:526	Human immunodeficiency virus infectious disease
+305	DOID:530	eyelid disease
+306	DOID:5339	cyclic hematopoiesis
+307	DOID:535	sleep disorder
+308	DOID:5409	lung small cell carcinoma
+309	DOID:5419	schizophrenia
+310	DOID:5426	premature ovarian failure
+311	DOID:5517	stomach carcinoma
+312	DOID:5520	head and neck squamous cell carcinoma
+313	DOID:557	kidney disease
+314	DOID:5572	Beckwith-Wiedemann syndrome
+315	DOID:5614	eye disease
+316	DOID:5672	large intestine cancer
+317	DOID:5679	retinal disease
+318	DOID:5844	myocardial infarction
+319	DOID:594	panic disorder
+320	DOID:6050	esophageal disease
+321	DOID:615	leukopenia
+322	DOID:6270	gastric cardia carcinoma
+323	DOID:6271	gastric cardia adenocarcinoma
+324	DOID:630	genetic disease
+325	DOID:635	acquired immunodeficiency syndrome
+326	DOID:65	connective tissue disease
+327	DOID:654	overnutrition
+328	DOID:655	inherited metabolic disorder
+329	DOID:657	adenoma
+330	DOID:66	muscle tissue disease
+331	DOID:660	adrenal cortex cancer
+332	DOID:6713	cerebrovascular disease
+333	DOID:680	tauopathy
+334	DOID:684	hepatocellular carcinoma
+335	DOID:686	liver carcinoma
+336	DOID:687	hepatoblastoma
+337	DOID:688	embryonal cancer
+338	DOID:7	disease of anatomical entity
+339	DOID:706	mature B-cell neoplasm
+340	DOID:707	B-cell lymphoma
+341	DOID:7148	rheumatoid arthritis
+342	DOID:74	hematopoietic system disease
+343	DOID:7474	malignant pleural mesothelioma
+344	DOID:75	lymphatic system disease
+345	DOID:768	retinoblastoma
+346	DOID:769	neuroblastoma
+347	DOID:7693	abdominal aortic aneurysm
+348	DOID:77	gastrointestinal system disease
+349	DOID:771	retinal cell cancer
+350	DOID:783	end stage renal failure
+351	DOID:784	chronic kidney failure
+352	DOID:824	periodontitis
+353	DOID:8398	osteoarthritis
+354	DOID:8432	polycythemia
+355	DOID:8466	retinal degeneration
+356	DOID:848	arthritis
+357	DOID:8536	herpes zoster
+358	DOID:8552	chronic myeloid leukemia
+359	DOID:8584	Burkitt lymphoma
+360	DOID:8618	oral cavity cancer
+361	DOID:863	nervous system disease
+362	DOID:8649	tongue cancer
+363	DOID:865	vasculitis
+364	DOID:8692	myeloid leukemia
+365	DOID:8712	neurofibromatosis
+366	DOID:8725	vascular dementia
+367	DOID:8771	contagious pustular dermatitis
+368	DOID:8850	salivary gland cancer
+369	DOID:8857	lupus erythematosus
+370	DOID:8893	psoriasis
+371	DOID:8923	skin melanoma
+372	DOID:896	metal metabolism disorder
+373	DOID:898	polycystic kidney disease
+374	DOID:8986	narcolepsy
+375	DOID:8997	polycythemia vera
+376	DOID:9036	parotid gland cancer
+377	DOID:9074	systemic lupus erythematosus
+378	DOID:9119	acute myeloid leukemia
+379	DOID:9120	amyloidosis
+380	DOID:9206	Barrett's esophagus
+381	DOID:9252	amino acid metabolic disorder
+382	DOID:9253	gastrointestinal stromal tumor
+383	DOID:9256	colorectal cancer
+384	DOID:9261	nasopharynx carcinoma
+385	DOID:9279	hyperhomocysteinemia
+386	DOID:9296	cleft lip
+387	DOID:934	viral infectious disease
+388	DOID:9351	diabetes mellitus
+389	DOID:9352	type 2 diabetes mellitus
+390	DOID:9408	acute myocardial infarction
+391	DOID:9500	leukocyte disease
+392	DOID:9538	multiple myeloma
+393	DOID:962	neurofibroma
+394	DOID:9744	type 1 diabetes mellitus
+395	DOID:9835	refractive error
+396	DOID:987	alopecia
+397	DOID:9884	muscular dystrophy
+398	DOID:9942	lymph node disease
+399	DOID:9952	acute lymphocytic leukemia
+400	DOID:9970	obesity
+401	DOID:9973	substance dependence
+402	DOID:9974	drug dependence
+403	DOID:9976	heroin dependence
+404	DOID:9993	hypoglycemia
