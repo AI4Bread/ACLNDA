@@ -5,14 +5,12 @@ Asymmetric Graph Contrastive Learning Framework for Predicting Non-Coding RNA-Di
   ```
   python run_process.py
   ```
-- This script will process the raw data and generate the necessary files for the subsequent steps.
 
 2. Node Embedding:
 - Run the node embedding script to generate node embeddings:
   ```
-  python hete/main/=.py
+  python hete/main.py
   ```
-- This script will use the processed data and generate node embeddings using the specified embedding technique.
 
 3. Prediction:
 - Run one of the prediction scripts to make predictions:
@@ -28,4 +26,3 @@ Asymmetric Graph Contrastive Learning Framework for Predicting Non-Coding RNA-Di
     ```
     python code/LMI_prediction.py
     ```
-- Each prediction script will use the generated node embeddings and make predictions based on the corresponding method.
