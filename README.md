@@ -12,7 +12,8 @@ Asymmetric Graph Contrastive Learning Framework for Predicting Non-Coding RNA-Di
 - tqdm
 - pandas
 - sklearn
-  
+
+# RUN ACLNDA
 1. Data Processing:
 - Run the data processing script to preprocess the input data:
   ```
